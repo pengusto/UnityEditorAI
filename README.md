@@ -1,5 +1,13 @@
 # UnityEditorAI
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/images/unityeditorai-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="docs/images/unityeditorai-banner-light.png">
+  <img alt="UnityEditorAI — the penguin turns a speech bubble into scene primitives" src="docs/images/unityeditorai-banner-light.png" width="2170">
+</picture>
+
+<sub>AI-generated concept illustration, not an editor screenshot. <a href="docs/images/ASSETS.md">Asset provenance</a>.</sub>
+
 **From a sentence to a scene — an experiment inside the Unity Editor.**
 
 UnityEditorAI explores how natural language can help Unity developers prototype objects, write C# scripts, and reuse prompts without leaving the editor. It was developed as a Bachelor's thesis in Human-Technology Interaction at Hochschule Ruhr West, in cooperation with Capgemini Germany.
